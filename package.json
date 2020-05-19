@@ -1,0 +1,33 @@
+{
+  "name": "fancy-props",
+  "version": "0.0.0",
+  "description": "DOM nodes have an eclectic (horrible) collection of properties and attributes, this library attempts to bring sanity to setting and getting them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "c8 node test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "classist": "^1.1.1",
+    "setify": "^1.0.4"
+  },
+  "devDependencies": {
+    "c8": "^7.1.2",
+    "crel": "^4.2.1",
+    "dom-lightning": "^1.0.2",
+    "tape": "^5.0.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/fancy-props.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/fancy-props/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/fancy-props#readme"
+}
