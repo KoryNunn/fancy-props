@@ -1,6 +1,6 @@
 {
   "name": "fancy-props",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "DOM nodes have an eclectic (horrible) collection of properties and attributes, this library attempts to bring sanity to setting and getting them.",
   "main": "index.js",
   "scripts": {
